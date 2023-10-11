@@ -5,3 +5,6 @@ print(lines)
 
 # for i in my_file:
 #     print(i)
+
+
+my_file.close()
