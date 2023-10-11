@@ -1,0 +1,4 @@
+Controlling: “Control is the course of action that measures present performance
+and guides it towards some predetermined goal. The quintessence of control lies
+in checking existing actions against some desired results determined in the
+planning process.”
